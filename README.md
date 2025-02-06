@@ -3,6 +3,22 @@ Project for MAD4PalmOil Hackathon 2024
 
 ### OPERAI (Oil Palm Environment Recognition AI) - Object Detection GUI using YOLOv3
 
+## Table of Contents
+
+- [Overview](#overview)
+- [Features](#features)
+- [Installation & Usage](#installation--usage)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+  - [Running the Application](#running-the-application)
+- [File Structure](#file-structure)
+- [Screenshot Storage](#screenshot-storage)
+- [License](#license)
+- [Acknowledgments](#acknowledgments)
+- [Flowchart](#flowchart)
+- [Graphic User Interface (GUI)](#graphic-user-interface-gui)
+- [Reference](#reference)
+
 ## Overview
 
 OPERAi is a real-time object detection application using YOLOv3 and OpenCV, integrated with a graphical user interface (GUI) built with Tkinter. The application processes live video feed from a webcam, detects objects, and allows users to take screenshots of detected objects with a timestamp.
