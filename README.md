@@ -1,6 +1,7 @@
 # Smart-Object-Identification-in-Oil-Palm-Plantations with GUI
 Project for MAD4PalmOil Hackathon 2024
-OPERAI (Oil Palm Environment Recognition AI) - Object Detection GUI using YOLOv3
+
+### OPERAI (Oil Palm Environment Recognition AI) - Object Detection GUI using YOLOv3
 
 ## Overview
 
